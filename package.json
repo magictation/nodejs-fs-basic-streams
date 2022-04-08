@@ -1,0 +1,11 @@
+{
+  "name": "streams_nodejs",
+  "version": "1.0.0",
+  "description": "nodejs samples of working with streams, files, etc.",
+  "main": "index.js",
+  "author": "Dmitry Likharev",
+  "license": "MIT",
+  "dependencies": {
+    "log-update": "^4.0.0"
+  }
+}
